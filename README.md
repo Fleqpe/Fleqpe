@@ -5,7 +5,7 @@
 
 - 🌱 I’m constantly honing my skills on **Unity,C#**
 
-- 👨‍💻 All of my projects are available at [https://fleqpe.github.io/](https://fleqpe.github.io/)
+- 👨‍💻 All of my projects are available at https://www.fleqpegames.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
