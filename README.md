@@ -32,11 +32,6 @@ I enjoy turning ideas into playable experiences and exploring new ideas through 
   </a>
 </p>
 
-### 🎮 Game Development
-
-**[Fleqpe Games](https://www.fleqpegames.com)**  
-My game development portfolio — discover my games and projects.
-
 ### 🤝 Let's Connect
 
 Interested in my work or want to talk game development?  
