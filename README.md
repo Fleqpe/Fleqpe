@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://www.fleqpegames.com">Portfolio</a> •
   <a href="https://www.linkedin.com/in/baris--kurt/">LinkedIn</a> •
-  <a href="https://zabizu.com">Zabizu</a>
 </p>
 
 ---
