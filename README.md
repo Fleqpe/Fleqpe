@@ -37,11 +37,6 @@ I enjoy turning ideas into playable experiences and exploring new ideas through 
 **[Fleqpe Games](https://www.fleqpegames.com)**  
 My game development portfolio — discover my games and projects.
 
-### 🚀 Side Projects
-
-**[Zabizu](https://zabizu.com)**  
-A side project I'm building beyond game development.
-
 ### 🤝 Let's Connect
 
 Interested in my work or want to talk game development?  
